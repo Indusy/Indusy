@@ -1,0 +1,215 @@
+Package: QTScrcpy
+Version: 1.8.1
+Architecture: amd64
+Maintainer: barry-ran
+Installed-Size: 13376066
+Filename: ./QTScrcpy_1.8.1.deb
+Size: 3399592
+MD5sum: f1d3c3cbdc153025146abecff2bf0f30
+SHA1: 847cc94b53b653ad72b06e53c8d8a844882143f3
+SHA256: ed5101debff294a25c6ceb9641323ead2d2390449ae256efc97fdad529b3171a
+Section: utils
+Priority: optional
+Homepage: https://blog.csdn.net/rankun1/article/details/87970523
+Description: Android real-time display control software
+
+Package: clash
+Version: 2022.01.27
+Architecture: amd64
+Maintainer: Dreamacro
+Installed-Size: 26996728
+Depends: nodejs
+Recommends: yacd
+Filename: ./clash_2022.01.27.deb
+Size: 4106860
+MD5sum: d850aa80f718135458e01054487f19ad
+SHA1: bcac91fb5e8c63550f099efb2b120c1bc6d8df93
+SHA256: c8016701d966bbdbd76beb4c8e41179ae90d34152be3f2dc00099b009bcef11e
+Section: utils
+Priority: optional
+Homepage: https://github.com/Dreamacro/clash/releases/tag/premium
+Description: A rule-based tunnel in Go.
+
+Package: fonts-misans-ttf
+Source: fonts-misans
+Version: 1.0
+Architecture: all
+Maintainer: Xiaomi
+Installed-Size: 79081476
+Filename: ./MiSans.deb
+Size: 45754000
+MD5sum: bb348ca2f24a951a97861e9beb6caddf
+SHA1: 07dca1f0bce18c72b22b0aa38241fd0805943edd
+SHA256: bba976d523a056d54355d71f57d05d111092f296dd7e61ad65b49ccdaaa7cb79
+Section: fonts
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854&app_version=dev.20051&ref=MIUI13
+Description: MIUI 13 default fonts CJK.
+Original-Maintainer: Xiaomi
+
+Package: frp
+Version: 0.39.0
+Architecture: amd64
+Maintainer: fatedier
+Installed-Size: 263462
+Filename: ./frp_0.39.0.deb
+Size: 6846800
+MD5sum: 5de3d6f4a382ef22b365710ab8fb4cee
+SHA1: 208c2d665a4d4288ec3245efa8ab9578613ba32d
+SHA256: 5f6e8f63e5d8dbdd58fb50f95861da9b9c2078627d45f700e5e7045a50f5ffc0
+Section: utils
+Priority: optional
+Description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+Package: google-chrome-proxy
+Version: 1.0
+Architecture: amd64
+Maintainer: Indusy
+Installed-Size: 32238
+Depends: google-chrome | google-chrome-stable
+Filename: ./google-chrome-proxy.deb
+Size: 7068
+MD5sum: c1007c30f3aba44fb156ea6b91910da5
+SHA1: 3aa39306cf11658d842f017626e207f1a6b32e94
+SHA256: ebaa009ceedfcdd410c8fee7870d0cf4bf3693dc9ea84b3e2ad0c67e68b16589
+Section: utils
+Priority: optional
+Homepage: http://github.com/indusy/app.git
+Description: Chrome Proxy Entry
+
+Package: netease-cloud-music
+Version: 1.2.1
+Architecture: amd64
+Maintainer: zccrs <zhangjide@deepin.com>
+Installed-Size: 364366
+Filename: ./netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb
+Size: 104501260
+MD5sum: 1f47c7dc3d9ce46da8099e539ee8a74d
+SHA1: f649a556c2e95cf3731ce598ce6368df1dfa9ae3
+SHA256: 1ee9f02842e6c2c8c79c48b2e932074f9c213a8eb4238e5e63f20438562fecbb
+Section: sound
+Priority: optional
+Homepage: https://www.deepin.org
+Description: Netease cloud music player.
+ Netease cloud music player.
+
+Package: shareone
+Version: 1.0
+Architecture: amd64
+Maintainer: indusy <teririkawaii@outlook.com>
+Installed-Size: 42268618
+Depends: qrencode
+Filename: ./shareone_1.0.deb
+Size: 12183848
+MD5sum: dfe1cda355e77980427bd763d8181c0d
+SHA1: ea0c42aba795a8f07da3470d4be29c6bff7aa66e
+SHA256: 3c10cc62cf04760fd872fdba07b276ec2f61e24e4d609961d3b1280c636be499
+Section: utils
+Priority: optional
+Description: Share files using HTTP and QRCode which LAN hosts.
+
+Package: sogouimebs
+Version: 2.1.0.2529
+Architecture: amd64
+Maintainer: Ubuntu Kylin Team <ubuntukylin-members@lists.launchpad.net>
+Installed-Size: 124287
+Depends: fcitx (>= 1:4.2.8), fcitx-frontend-gtk2, fcitx-frontend-gtk3, fcitx-frontend-qt5, fcitx-module-kimpanel, fcitx-module-x11, libxtst6, im-config, lsb-release, fcitx-libs | libfcitx-config4, fcitx-libs | libfcitx-qt0, fcitx-libs | libfcitx-utils0, fcitx-ui-classic, qml-module-qtquick2, libqt5quickwidgets5, libfcitx-qt5-1
+Recommends: fonts-droid | fonts-droid-fallback
+Breaks: sogoupinyin
+Filename: ./sogouimebs_2.1.0.2529_amd64.deb
+Size: 47595584
+MD5sum: 81d7cd0c749d665ea7153f92772a37b8
+SHA1: 4e089e2cbb7e53877e366cb3dd0f4ea59431ab52
+SHA256: 0221e7d3515db93c909e074f418bde90b355b8ccfcc234821dcf9bf6143911b1
+Section: utils
+Priority: optional
+Homepage: http://pinyin.sogou.com/linux
+Description: Business Sogou Input Method
+ Based on web search engine technology, Sogou Pinyin input method is
+ the next-generation input method designed for Internet users. As it
+ is backed with search engine technology, user input method can be
+ extremely fast, and it is much more advanced than other input method
+ engines in terms of the volume of the vocabulary database and its
+ accuracy. Sogou input method is the most popular input methods in
+ China, and Sogou promises it will always be free of charge.
+
+Package: sogoupinyin
+Version: 3.4.0.9700
+Architecture: amd64
+Maintainer: Sogou IME Team <LinuxImeDev@sogou-inc.com>
+Installed-Size: 254449
+Depends: fcitx (>= 1:4.2.8), fcitx-frontend-gtk2, fcitx-frontend-gtk3, fcitx-frontend-qt5, fcitx-module-x11, libxtst6, im-config, lsb-release
+Recommends: fonts-droid | fonts-droid-fallback
+Breaks: fcitx-ui-qimpanel
+Filename: ./sogoupinyin_3.4.0.9700_amd64.deb
+Size: 81403290
+MD5sum: 1bd1e172f3047c982016a41e298cab47
+SHA1: e467d2ac703525ee42d048b446013e3ef5ab996a
+SHA256: 0a8de6e87c1402db49869754fa08dd58c448cd44f06b73b825debe7bea27d74d
+Section: utils
+Priority: optional
+Homepage: http://pinyin.sogou.com/linux
+Description: Business Sogou Input Method
+ Based on web search engine technology, Sogou Pinyin input method is
+ the next-generation input method designed for Internet users. As it
+ is backed with search engine technology, user input method can be
+ extremely fast, and it is much more advanced than other input method
+ engines in terms of the volume of the vocabulary database and its
+ accuracy. Sogou input method is the most popular input methods in
+ China, and Sogou promises it will always be free of charge.
+
+Package: telegram-desktop
+Version: 3.5.1
+Architecture: amd64
+Maintainer: indusy <teririkawaii@outlook.com>
+Installed-Size: 117758990
+Recommends: fonts-open-sans
+Filename: ./telegram-desktop_3.5.1.deb
+Size: 40536696
+MD5sum: b6ccc29473dbdc4e0624c3a617bb0916
+SHA1: c7a7edbc78dd325d0e3195fe29d8a718def75128
+SHA256: b5c59067634e6c55f5196f0cf92037d92b39b7b5b5719c151e44926eafe4ed23
+Section: net
+Priority: optional
+Homepage: https://desktop.telegram.org
+Description: fast and secure messaging application
+ Telegram is a messaging app with a focus on speed and security, it is
+ super-fast, simple and free. You can use Telegram on all your devices at the
+ same time — your messages sync seamlessly across any number of your phones,
+ tablets or computers.
+Original-Maintainer: Nicholas Guriev <guriev-ns@ya.ru>
+
+Package: xunlei
+Version: 1.0.0.1
+Architecture: amd64
+Maintainer: zrqlx126 <zrqlx126@sohu.com>
+Installed-Size: 173112
+Filename: ./xunlei_1.0.0.1-myubuntu_amd64.deb
+Size: 49106868
+MD5sum: 8da960ece06bbd647ee20e67ad115498
+SHA1: 22b6f917c73148b01b947d05784ed40c3cb43e85
+SHA256: dcade02e03f7f52383169bf8b747e9576500c5520607b1c52d86b1d82cf4dfcd
+Section: net
+Priority: optional
+Description: xunlei download
+ xunlei download p2p
+
+Package: yacd
+Version: 1.0.0
+Architecture: amd64
+Maintainer: indusy <teririkawaii@outlook.com>
+Installed-Size: 263462
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: ./yacd_1.0.0_amd64.deb
+Size: 72120380
+MD5sum: 41caa66fdbdb0858189f9a1c52cf4d75
+SHA1: 1e0dd2e0e1296366658c11d65a5662d6085fc3cd
+SHA256: bc11b3ab73c562443930626dd29e14621d3557c57ea55a97b191ad1747c45029
+Section: utils
+Priority: optional
+Description: Clash frontend for electron
+ Clash frontend for electron
+

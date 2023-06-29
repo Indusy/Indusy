@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 
 ## Website
 
-Blog <https://blog.tql8.club/>
-
-Home <https://tql8.club/>
+Blog <https://blog.runnow.top/>
